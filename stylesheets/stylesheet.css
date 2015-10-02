@@ -456,7 +456,7 @@ header {
 }
 
 header h1 {
-  width: 540px;
+  width: 940px;
   margin-top: 0;
   margin-bottom: 0.2em;
   font-size: 72px;
@@ -490,7 +490,7 @@ header h2 {
 
 #main-content {
   float: left;
-  width: 690px;
+  width: 990px;
 }
 
 #main-content img {
